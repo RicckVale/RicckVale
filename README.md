@@ -1,5 +1,37 @@
-<h1 align="center">Hi 👋, I'm Henrique do Vale</h1>
-<h3 align="center">Desde pequeno sempre fui apaixonado pela internet, cresci em frente a um computador e sempre falei para todos que iria trabalhar com sites, aos 16 anos iniciei no mundo do Designer Gráfico graças a uma oportunidade de trabalho, onde me especializei e aprendi a amar essa arte. Logo após chegar às Óticas Diniz em 2016 notei uma oportunidade de voltar a fazer o que eu sempre quis, sites, e tive a chance de iniciar no mundo da programação fazendo um sistema inteiramente sozinho, e agora estou aqui, um Designer no mundo da programação. ;)</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricckvale&label=Profile%20views&color=0e75b6&style=flat" alt="ricckvale" /> </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Sobre mim
+
+💡  Atualmente, trabalho no desenvolvimento de sistemas, automações e inteligência artificial.
+
+🚀 Sou especialista em criar soluções inovadoras, desde bots de WhatsApp até integrações avançadas com OpenAI.
+
+💻 Minha paixão por tecnologia me levou a explorar frameworks modernos como NestJS e Prisma ORM, além de atuar com desenvolvimento web e automação de processos.
+
+---
+
+## Tecnologias e Ferramentas
+
+### Linguagens & Frameworks
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+
+### Bancos de Dados
+
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server) ![Prisma ORM](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+
+### Automação & Bots 🤖
+
+![WhatsAppJS](https://img.shields.io/badge/-WhatsAppJS-333333?style=flat&logo=whatsapp) ![WhiskeySocket](https://img.shields.io/badge/-WhiskeySocket-333333?style=flat&logo=whatsapp) ![DiscordBOT](https://img.shields.io/badge/-DiscordBOT-333333?style=flat&logo=discord)
+
+### Inteligência Artificial & OpenAI 🧠
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=python)
+
+---
+
+## 📊 Estatísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricckvale&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-Henrique%20do%20Vale-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricckvale/) [![GitHub](https://img.shields.io/badge/-ricckvale-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/ricckvale)
