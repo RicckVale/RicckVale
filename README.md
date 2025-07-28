@@ -26,12 +26,6 @@
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=python)
 
----
-
-## 📊 Estatísticas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricckvale&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-Henrique%20do%20Vale-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricckvale/) [![GitHub](https://img.shields.io/badge/-ricckvale-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/ricckvale)
