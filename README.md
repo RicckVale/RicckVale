@@ -1,7 +1,7 @@
 # 🚀 Henrique do Vale | @ricckvale
 
-💡 **Software Engineer & Problem Solver** | Especialista em IA, Automação e Sistemas Críticos.
-Com background em Design e foco total em eficiência operacional, desenvolvo soluções que conectam inteligência de dados ao dia a dia das empresas.
+💡 **Software Engineer & Problem Solver** | Especialista em IA, Automação e Sistemas de Gestão Crítica.
+Com background em Design e foco total em eficiência operacional, desenvolvo ecossistemas que conectam inteligência de dados à ponta final do negócio.
 
 ---
 
@@ -20,15 +20,17 @@ Com background em Design e foco total em eficiência operacional, desenvolvo sol
 
 ### 🧠 Impacto & Soluções Reais
 
-Minha atuação vai além do código; eu foco na arquitetura de soluções que resolvem gargalos de escala e gestão:
+Minha atuação foca em transformar processos manuais em fluxos digitais de alta performance, com experiência comprovada no maior player de varejo ótico do Brasil:
 
-- **Ecossistemas Administrativos:** Desenvolvi o *AdministraDiniz*, painel centralizado para gestão de operações críticas (abastecimento, inventário via barcode, garantias e logística) utilizado por múltiplas unidades de varejo óptico.
-- **Automação & IA Generativa:** Conexão de LLMs a bancos de dados privados (**RAG/MCP**) para entregar inteligência de negócios em tempo real via **WhatsApp** e Dashboards.
-- **Data Engineering & BI:** Construção de pipelines de dados e dashboards analíticos (Curva ABC, Desempenho de Vendas) para suporte à tomada de decisão.
-- **Visão Computacional e OCR:** Projetos de automação documental, como a conversão de Ordens de Compra em PDF diretamente para registros estruturados em ERP.
-- **Infraestrutura & Resiliência:** Gestão de servidores **Linux**, ambientes conteinerizados com **Docker** e fluxos de **CI/CD** para garantir estabilidade em operações 24/7.
+- **Ecossistema de Gestão de Varejo (Node.js/React):** Desenvolvimento e manutenção de um ecossistema completo para gestão de operações críticas, incluindo:
+    - **Catálogo Digital Inteligente:** Tabela de lentes dinâmica que automatiza a filtragem de prescrições complexas (esférico, cilíndrico, adição e índice).
+    - **Business Intelligence:** Dashboards analíticos para monitoramento de vendas, comissionamento, curva ABC de estoque e análise de margens.
+    - **IA Nativa:** Implementação de Chat AI e protocolos MCP para consulta conversacional aos dados do ERP.
+- **Automação de Processos Documentais:** Motores de OCR para converter pedidos de compra em PDF diretamente em registros estruturados, eliminando a digitação manual.
+- **Inteligência de Negócios via WhatsApp:** Criação de bots inteligentes para acompanhamento de métricas em tempo real e automação de comunicação.
+- **Infraestrutura Resiliente:** Administração de servidores Linux, ambientes Docker e pipelines de CI/CD para garantir a estabilidade de sistemas com alto volume de acessos.
 
-> **Minha abordagem:** Entender a dor do negócio, desenhar a arquitetura e aplicar a melhor tecnologia para resolvê-la. Se envolve dados, automação e escala, eu construo.
+> **Minha abordagem:** Entender a dor do negócio e aplicar a melhor stack para resolvê-lo. Se envolve dados, automação e inteligência aplicada, eu construo.
 
 ---
 
