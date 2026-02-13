@@ -1,7 +1,7 @@
 # 🚀 Henrique do Vale | @ricckvale
 
-💡 **Software Engineer & Problem Solver** | Especialista em IA, Automação e Sistemas de Gestão Crítica.
-Com background em Design e foco total em eficiência operacional, desenvolvo ecossistemas que conectam inteligência de dados à ponta final do negócio.
+💡 **Software Engineer & Tech Lead** | Especialista em IA, Automação e Sistemas de Gestão Crítica.
+Com background em Design e foco em eficiência operacional, projeto ecossistemas que conectam inteligência de dados à estratégia de negócio.
 
 ---
 
@@ -18,19 +18,16 @@ Com background em Design e foco total em eficiência operacional, desenvolvo eco
 
 ---
 
-### 🧠 Impacto & Soluções Reais
+### 🧠 Expertise & Entregas de Alto Impacto
 
-Minha atuação foca em transformar processos manuais em fluxos digitais de alta performance, com experiência comprovada no maior player de varejo ótico do Brasil:
+Minha trajetória é marcada pelo desenvolvimento de soluções robustas para cenários de alta complexidade:
 
-- **Ecossistema de Gestão de Varejo (Node.js/React):** Desenvolvimento e manutenção de um ecossistema completo para gestão de operações críticas, incluindo:
-    - **Catálogo Digital Inteligente:** Tabela de lentes dinâmica que automatiza a filtragem de prescrições complexas (esférico, cilíndrico, adição e índice).
-    - **Business Intelligence:** Dashboards analíticos para monitoramento de vendas, comissionamento, curva ABC de estoque e análise de margens.
-    - **IA Nativa:** Implementação de Chat AI e protocolos MCP para consulta conversacional aos dados do ERP.
-- **Automação de Processos Documentais:** Motores de OCR para converter pedidos de compra em PDF diretamente em registros estruturados, eliminando a digitação manual.
-- **Inteligência de Negócios via WhatsApp:** Criação de bots inteligentes para acompanhamento de métricas em tempo real e automação de comunicação.
-- **Infraestrutura Resiliente:** Administração de servidores Linux, ambientes Docker e pipelines de CI/CD para garantir a estabilidade de sistemas com alto volume de acessos.
+- **Sistemas de Larga Escala:** Liderança técnica no desenvolvimento de uma plataforma integrada ao ecossistema de ERP do maior player de varejo ótico do Brasil. O projeto envolveu a arquitetura de ferramentas para automação de vendas, inteligência de catálogo e suporte à decisão executiva para múltiplas unidades de negócio.
+- **Inteligência Artificial Aplicada:** Implementação de arquiteturas modernas de IA (RAG e protocolos MCP) para transformar bancos de dados estáticos em interfaces conversacionais inteligentes, acessíveis via web e WhatsApp.
+- **Automação de Processos Documentais:** Projetos focados em eficiência operacional, utilizando visão computacional e OCR para eliminar gargalos de digitação manual e integrar fluxos logísticos.
+- **Engenharia de Infraestrutura:** Gestão completa de ambientes Linux, orquestração de containers com Docker e automação de pipelines de entrega contínua (CI/CD) para sistemas de missão crítica.
 
-> **Minha abordagem:** Entender a dor do negócio e aplicar a melhor stack para resolvê-lo. Se envolve dados, automação e inteligência aplicada, eu construo.
+> **Abordagem Generalista:** Minha especialidade é traduzir dores de negócio em tecnologia. Seja criando APIs de alta performance, fluxos de dados para BI ou agentes de IA autônomos, minha entrega é pautada em escalabilidade e resultado real.
 
 ---
 
